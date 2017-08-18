@@ -2,7 +2,7 @@ jQuery( document ).ready( function () {
 
     jQuery( '.zoom' ).unbind( 'click' );
 
-    jQuery( '.wdm_bundle_price p.price' ).prepend('Total: ');
+    jQuery( '.wdm_bundle_price p.price' ).prepend('Precio: ');
 
     // Main Product's 'Add to Cart' button is clicked
     jQuery( 'form' ).delegate( '.bundle_add_to_cart_button', 'click', function ( e ) {

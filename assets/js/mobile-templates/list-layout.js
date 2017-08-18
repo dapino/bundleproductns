@@ -94,6 +94,7 @@
 
 
     cpbMobileListLayout.cpbMobileLayout.prototype.increaseAddonProductQty = function(event) {
+       
 
         addonProductData = cpbMobileListLayout.addonProductData(jQuery(this).closest('.bundled_product_summary'));
 
@@ -129,6 +130,13 @@
             cpbMobileListLayout.addProductInDesktopBundle(addonProductData.addonProductId);
         }
 
+         //console.log(event.target.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.nextSibling.nextSibling.childNodes[1]);
+        var productId = event.target.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.childNodes[0].nextSibling.dataset.bundledItemId;
+        var productName = event.target.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.nextSibling.nextSibling.childNodes[1].textContent;
+        var productQuantity =  addonProductData.addonProductQty + 1;
+
+        drawProductItem(productId, productName, productQuantity);
+
     };
 
     cpbMobileListLayout.cpbMobileLayout.prototype.decreaseAddonProductQty = function(event) {
@@ -160,6 +168,11 @@
             //Decrease Quantity in Desktop Mode too
             cpbMobileListLayout.removeProductFromDesktopBundle(addonProductData.addonProductId);
         }
+
+        var productId = event.target.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.childNodes[0].nextSibling.dataset.bundledItemId;
+        var productQuantity =  addonProductData.addonProductQty - 1;
+
+        deleteProductItem(productId, productQuantity);
 
     };
 
@@ -242,9 +255,70 @@
             var name = jQuery('.wdm-cpb-product-layout-wrapper *[data-product-cat-id="'+v+'"]').data('product-cat-name');
             jQuery('.wdm-cpb-product-layout-wrapper *[data-product-cat-id="'+v+'"]').wrapAll('<div id="mobile-product-cat-'+v+'" class="product-cat-wrap"></div>');
             jQuery('#mobile-product-cat-'+v).prepend('<div class="product-cat-image"><img src="'+image+'" alt="'+name+'" /></div><h3 class="product-cat-title">'+name+'</h3>')
+
+            jQuery(`#mobile-product-cat-${v} .mobile_list_layout`).wrapAll('<div class="mobile_list_wrapper"></div>');
         });
+
     });
 
+    var drawProductItem = function(id,name, quantity){
+        var tableBody = jQuery('#bundled_product_table tbody');
+
+        if (jQuery('[data-product-item-id="'+ id +'"]').length) {
+            jQuery('[data-product-item-id="'+ id +'"] .quantity').text(quantity)
+        } else {
+            var tr = document.createElement('tr');
+            var tdName = document.createElement('td');
+            var tdQuantity = document.createElement('td');
+            var tdActions = document.createElement('td');
+            var decrease = document.createElement('span');
+            var sum = document.createElement('span');
+
+            tr.dataset.productItemId = id;
+            tdName.classList.add('name');
+            tdQuantity.classList.add('quantity');
+            tdActions.classList.add('product-table-actions');
+            decrease.dataset.decreaseId = id;
+            sum.dataset.sumId = id;
+
+            tdName.textContent = name;
+            tdQuantity.textContent = quantity;
+            decrease.textContent = '-';
+            sum.textContent = '+'
+
+            tdActions.appendChild(sum)
+            tdActions.appendChild(decrease)
+            tr.appendChild(tdName)
+            tr.appendChild(tdQuantity)
+            tr.appendChild(tdActions)
+            tableBody.append(tr)
+
+            decrease.addEventListener('click', function() {
+                let dec = jQuery(`.mobile-list-layout-add-on-product-quantity [data-bundled-item-id="${id}"].cart .wdm-cpb-addon-qty-minus`);
+                dec.click()
+            });
+
+            sum.addEventListener('click', function() {
+                let su = jQuery(`.mobile-list-layout-add-on-product-quantity [data-bundled-item-id="${id}"].cart .wdm-cpb-addon-qty-plus`);
+                su.click()
+
+            });
+
+        }
+    }
+
+    var deleteProductItem = function(id, quantity){
+        var tableBody = jQuery('#bundled_product_table tbody');
+        var productItem = jQuery('[data-product-item-id="'+ id +'"]');
+        if (productItem.length) {
+            jQuery('[data-product-item-id="'+ id +'"] .quantity').text(quantity)
+            if (quantity <= 0){
+                productItem.remove();
+            }
+        } 
+    }
+
     
+
 
 })(jQuery, window, document);

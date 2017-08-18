@@ -32,10 +32,10 @@ class WdmCPBMobileListLayout extends WdmAbstractProductDisplay
         wp_enqueue_script('wdm-cpb-snackbar-js', $woo_wdm_bundle->pluginUrl() . '/assets/js/snackbar/snackbar.js', array('jquery'), CPB_VERSION);
         wp_localize_script('wdm-cpb-mobile-list-layout-js', 'mobileListLayoutParams', array(
             'enableProductsSwap' => $this->enableSwapping() === true ? 1 : 0,
-            'giftboxFullMsg'    => __('Gift Box is full.', 'custom-product-boxes'),
-            'canNotAddProduct'  => __('Another %s can not be added to the box', 'custom-product-boxes'),
-            'productsAddedText' => __('Products in Box.', 'custom-product-boxes'),
-            'totalProductPriceText' => __('Total Product Price', 'custom-product-boxes'),
+            'giftboxFullMsg'    => __('Está lleno tu carrito', 'custom-product-boxes'),
+            'canNotAddProduct'  => __('No se pueden agregar más %s', 'custom-product-boxes'),
+            'productsAddedText' => __('Productos en el carrito', 'custom-product-boxes'),
+            'totalProductPriceText' => __('Precio total', 'custom-product-boxes'),
         ));
         //wp_localize_script('wdm-add-to-cart-bundle', 'wdm_bundle_params', $params);
     }

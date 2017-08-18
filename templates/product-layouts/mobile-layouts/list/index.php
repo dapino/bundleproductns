@@ -56,7 +56,28 @@ do_action("wdm_cpb_{$layoutType}_enqueue_styles");
     ?>
     </div>
     <div class="clear"></div>
-    <div class='mobile-list-layout-cpb-product-add-to-cart'>
+    
+    <h4 class="instructionTitle">Agrega máximo 24 unidades</h4>
+
+    <table id="bundled_product_table" class="shop_table shop_table_responsive cart woocommerce-cart-form__contents">
+        <thead>
+            <tr>
+                <th>Producto</th>
+                <th>Cantidad</th>
+                <th class="product-table-actions">Añadir/Eliminar</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+
+            </tr>
+            
+        </tbody>
+        
+    </table>
+
+
+    <div class='mobile-list-layout-cpb-product-add-to-cart hide-numeric-button'>
         <?php
             do_action('wdm_cpb_before_add_to_cart_button');
             do_action('wdm_cpb_add_to_cart_button', $product);
@@ -66,18 +87,3 @@ do_action("wdm_cpb_{$layoutType}_enqueue_styles");
     <?php do_action("wdm_cpb_{$layoutType}_enqueue_scripts"); ?>
 </div>
 <?php do_action('wdm_cpb_after_template_ends'); ?>
-
-<table class="shop_table shop_table_responsive cart woocommerce-cart-form__contents">
-    <thead>
-        <tr>
-            <th>Producto</th>
-            <th>Cantidad</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td></td>
-        </tr>
-    </tbody>
-    
-</table>

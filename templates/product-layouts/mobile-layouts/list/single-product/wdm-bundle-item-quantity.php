@@ -68,9 +68,10 @@ if ($bundled_product->is_in_stock()) {
 ?>
     <div class="quantity_button">
         <div class = "<?php echo $qty_class; ?>" >
-            <div class="mobile-list-layout-plus-button">
-                <input type = "button" value = "+" class = "wdm-cpb-addon-qty-plus" />
+            <div class="mobile-list-layout-minus-button">
+                  <input type="button" value="-" class="wdm-cpb-addon-qty-minus" />       
             </div>
+            
             <div class="mobile-list-layout-quantity-field">
                 <input 
                     type = "number"
@@ -89,8 +90,8 @@ if ($bundled_product->is_in_stock()) {
                     <?php echo $disableQty; ?>
                 />
             </div>
-            <div class="mobile-list-layout-minus-button">
-                  <input type="button" value="-" class="wdm-cpb-addon-qty-minus" />       
+            <div class="mobile-list-layout-plus-button">
+                <input type = "button" value = "+" class = "wdm-cpb-addon-qty-plus" />
             </div>
             <div class="clear"></div>
         </div>

@@ -184,6 +184,7 @@
 .wdm_bundle_price{
     display: inline-flex;
 }
+
 .bundled_product_summary {
   border: 1px dashed #cccccc;
   margin-bottom: 4px !important;
@@ -210,7 +211,7 @@
 }
 
 .mobile-list-layout-add-on-product-quantity {
-    width: 15%;
+    width: 30%;
     float: right;
     text-align: right;
 }
@@ -254,7 +255,7 @@
 .mobile_list_layout.bundled_product_summary {
     border:0px;
     border-bottom: 1px solid #cccccc;
-    padding-bottom: 2%;
+    padding: 0.4em 1em;
 }
 
 .mobile-list-layout-addon-product-info p.wdm_price {
@@ -289,7 +290,7 @@
     .mobile-list-layout-add-on-product-quantity{
         float: left;
         text-align: left;
-        width: 25%;
+        width: 30%;
     }
     .mobile-list-layout-add-on-product-quantity .cart{
         float: left;
@@ -322,3 +323,96 @@
     }
 }
 
+.hide-numeric-button .qty{
+    display: none !important;
+}
+
+.mobile_list_wrapper{
+    height: 200px;
+    overflow-y: auto;
+}
+
+.product-cat-image{
+    text-align: center;
+}
+.product-cat-title{
+    text-transform: uppercase;
+    text-align: center;
+}
+.product-table-actions span{
+    padding: 0.5em;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: #333;
+    color: white;
+    opacity: 0.5;
+    width: 25px;
+    height: 25px;
+    padding: 0;
+    display: inline-block;
+    text-align: center;
+    line-height: 23px;
+    margin: 0 15px;
+    transition: all .3s ease;
+}
+.product-table-actions span:hover{
+    opacity: 1
+}
+
+.mobile_list_layout{
+    border: 1px solid red;
+}
+.bundled_product_summary, .bundle_form{
+    padding: 0;
+}
+.mobile-list-layout-add-on-product-quantity{
+    float: right !important;
+}
+.mobile-list-layout-plus-button input.wdm-cpb-addon-qty-plus, 
+.mobile-list-layout-minus-button input.wdm-cpb-addon-qty-minus{
+    padding: 5px !important;
+    font-size: 20px !important;
+    cursor: pointer;
+}
+.mobile-list-layout-quantity-field input.qty{
+    width: 25px !important;
+}
+
+.woocommerce-page .quantity input.qty{
+    background-color: transparent !important;
+    color: #333 !important;
+}
+.bundled_product_title.product_title{
+    font-size: 16px !important;
+    line-height: 2 !important;
+    font-weight: 400 !important;
+}
+
+.product-cat-wrap{
+    padding: 1em;
+}
+
+.wdm-mobile-list-cpb-layout .woocommerce-Price-amount.amount{
+    display:none !important;
+}
+
+.bundle_wrap .woocommerce-Price-amount.amount{
+    display:block !important;
+}
+
+.product-table-actions{
+    text-align: right;
+}
+
+.instructionTitle{
+    text-align: center;
+    color: #2b9543;
+    margin: 15px auto;
+}
+
+@media (max-width: 768px){
+    #bundled_product_table{
+        display: none;
+    }
+}
