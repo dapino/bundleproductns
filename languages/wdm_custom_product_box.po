@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Product Box\n"
+"POT-Creation-Date: 2014-10-16 18:38+0530\n"
+"PO-Revision-Date: 2014-10-16 18:39+0530\n"
+"Last-Translator: \n"
+"Language-Team: WisdmLabs\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/sagar/Desktop/custom-product-boxes/custom-"
+"product-boxes\n"
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:24
+msgid "Custom Product Box"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:37
+msgid "Regular Price"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:40
+msgid "Enter Regular Price."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:48
+msgid "Sale Price"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:51
+msgid "Enter Sale Price."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:62
+msgid "Custom Box Settings"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:78
+msgid "Product Box Settings"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:87
+msgid "Box Quantity"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:90
+msgid "Set the number of items which can be added to the box."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:102
+msgid "Columns in Grid"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:104
+msgid ""
+"Select the number of columns for the grid template. This will affect the "
+"display of the grid on the product page."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:106
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:131
+msgid "2"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:107
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:132
+msgid "3"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:113
+msgid "Height of each Row"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:116
+msgid "The height of each row in the grid template. For example 100."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:127
+msgid "Columns in Product Layout"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:129
+msgid "Select the number of columns for the product selection layout."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:140
+msgid "Add-On Products"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:146
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/admin/class-wdm-product-bundle-type.php:162
+msgid ""
+"Select the products which can be added to the Custom Product Box. Kindly "
+"select more than one product."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/public/class-wdm-product-bundle-type-display.php:202
+msgid "Add to cart"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/public/class-wdm-product-bundle-type-display.php:231
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wdm-wc-product-cart.php:740
+msgid ""
+"Quantity exceeds the maximum quantity of certain products in the box. Kindly "
+"reduce the number of Boxes selected."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/public/class-wdm-product-bundle-type-display.php:252
+msgid "Kindly fill the box before adding it to the cart."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/public/class-wdm-product-bundle-type-display.php:280
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wc-product-wdm-product-bundle.php:459
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wc-product-wdm-product-bundle.php:468
+msgid "Free!"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/public/class-wdm-product-bundle-type-display.php:281
+msgid "Total"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/public/class-wdm-product-bundle-type-display.php:282
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wc-product-wdm-product-bundle.php:543
+msgid "Out of stock"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/public/class-wdm-product-bundle-type-display.php:283
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wc-product-wdm-product-bundle.php:548
+msgid "Available on backorder"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/public/class-wdm-product-bundle-type-display.php:319
+msgid "Price not set"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wdm-wc-product-item.php:222
+#, php-format
+msgid "%1$s <span class=\"bundled_item_price_quantity\">/ pc.</span>"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wdm-wc-product-cart.php:129
+#, php-format
+msgid "Sorry, the selected variation of &quot;%s&quot; cannot be purchased."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wdm-wc-product-cart.php:164
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wdm-wc-product-cart.php:224
+msgid "Please choose product options&hellip;"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wdm-wc-product-cart.php:484
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart &mdash; only 1 &quot;%s&quot; may "
+"be purchased."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wdm-wc-product-cart.php:491
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart because &quot;%s&quot; cannot be "
+"purchased."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wdm-wc-product-cart.php:499
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart because &quot;%s&quot; is out of "
+"stock."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wdm-wc-product-cart.php:505
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart because there is not enough stock "
+"of &quot;%s&quot; (%s remaining)."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wdm-wc-product-cart.php:526
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wdm-wc-product-cart.php:540
+msgid "View Cart"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wdm-wc-product-cart.php:527
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wdm-wc-product-cart.php:541
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart because there is not enough stock "
+"of &quot;%s&quot; &mdash; we have %s in stock and you already have %s in "
+"your cart."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wdm-wc-product-cart.php:686
+msgid "Included with"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wc-product-wdm-product-bundle.php:332
+msgid "now"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wc-product-wdm-product-bundle.php:578
+msgid "Read more"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/includes/class-wc-product-wdm-product-bundle.php:582
+msgid "Read More"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/templates/l_page_display.php:19
+msgid "Please enter license key."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/templates/l_page_display.php:23
+msgid "Your license key is activated."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/templates/l_page_display.php:27
+msgid "Please enter valid license key."
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/templates/l_page_display.php:31
+msgid "Site inactive(Press Activate license to activate plugin)"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/templates/l_page_display.php:35
+msgid "License Key is deactivated"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/templates/l_page_display.php:42
+msgid " License Options"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/templates/l_page_display.php:48
+msgid "License Key"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/templates/l_page_display.php:58
+msgid "License Status"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/templates/l_page_display.php:62
+msgid "Active"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/templates/l_page_display.php:66
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/templates/l_page_display.php:68
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/templates/l_page_display.php:74
+msgid "Not Active"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/templates/l_page_display.php:82
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/templates/l_page_display.php:95
+msgid "Activate License"
+msgstr ""
+
+#: /home/sagar/Desktop/custom-product-boxes/custom-product-boxes/templates/l_page_display.php:88
+msgid "Deactivate License"
+msgstr ""

@@ -1,0 +1,698 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Product Boxes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-23 20:23+0530\n"
+"POT-Revision-Date: Mon Mar 30 2015 12:24:39 GMT+0530 (IST)\n"
+"PO-Revision-Date: 2016-03-23 20:59+0530\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Poedit 1.8.4\n"
+"Last-Translator: \n"
+"Language: de\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:19
+msgid "Please enter license key."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:23
+msgid "Your license key is activated."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:27
+msgid "Please enter valid license key."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:31
+msgid "Site inactive(Press Activate license to activate plugin)"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:35
+msgid "License Key is deactivated"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:48
+msgid "License Key"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:58
+msgid "License Status"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:62
+msgid "Active"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:66 ../templates/l_page_display.php:68 ..
+#: /templates/l_page_display.php:74
+msgid "Not Active"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:82 ../templates/l_page_display.php:95
+msgid "Activate License"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:88
+msgid "Deactivate License"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:71
+msgid "Please enter value in \"Box Quantity\" field."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:76
+msgid "Please enter value in \"Add-On Products\" field."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:81
+msgid "Please enter value in \"Regular Price\" field."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:86
+msgid "Please enter value in \"Sale Price\" field less than regular price."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:152
+msgid "Custom Product Box"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:165
+msgid "Regular Price"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:168
+msgid "Enter Regular Price."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:177
+msgid "Sale Price"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:180
+msgid "Enter Sale Price."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:191
+msgid "Custom Box Settings"
+msgstr "Benutzerdefinierte Box-Einstellungen"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:205
+msgid "Product Box Settings"
+msgstr "Produkt Box-Einstellungen"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:214
+msgid "Box Quantity"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:217
+msgid "Set the number of items which can be added to the box."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:229
+msgid "Columns in Grid"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:231
+msgid ""
+"Select the number of columns for the grid template. This will affect the "
+"display of the grid on the product page."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:233 ../admin/class-wdm-product-
+#: bundle-type.php:259
+msgid "2"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:234 ../admin/class-wdm-product-
+#: bundle-type.php:260
+msgid "3"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:241
+msgid "Height of each Row"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:244
+msgid "The height of each row in the grid template. For example 100."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:255
+msgid "Columns in Product Layout"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:257
+msgid "Select the number of columns for the product selection layout."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:270
+msgid "Add-On Products"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:271
+msgid "Search for a product&hellip;"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:283
+msgid ""
+"Select the products which can be added to the Custom Product Box. Kindly "
+"select more than one product."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:324
+msgid "Per Product Pricing"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:325
+msgid ""
+"If enabled, the Custom product box will be priced per-item, based on the "
+"prices of the selected items."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:133
+#, php-format
+msgid "Sorry, the selected variation of &quot;%s&quot; cannot be purchased."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:166
+#: ../includes/class-wdm-wc-product- cart.php:225
+msgid "Please choose product options&hellip;"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:475
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart &mdash; only 1 &quot;%s&quot; may "
+"be purchased."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:482
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart because &quot;%s&quot; cannot be "
+"purchased."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:490
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart because &quot;%s&quot; is out of "
+"stock."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:496
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart because there is not enough stock "
+"of &quot;%s&quot; (%s remaining)."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:515
+#: ../includes/class-wdm-wc-product- cart.php:526
+msgid "View Cart"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:515
+#: ../includes/class-wdm-wc-product- cart.php:526
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart because there is not enough stock "
+"of &quot;%s&quot; &mdash; we have %s in stock and you already have %s in "
+"your cart."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:671
+msgid "Included with"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:735 ../public/class-wdm-product-
+#: bundle-type-display.php:245
+msgid ""
+"Quantity exceeds the maximum quantity of certain products in the box. Kindly "
+"reduce the number of Boxes selected."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wc-product-wdm-product-bundle.php:334
+msgid "now"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wc-product-wdm-product-bundle.php:396
+#: ../includes/class-wc- product-wdm-product-bundle.php:405
+#, php-format
+msgctxt "Price range: from-to"
+msgid "%1$s&ndash;%2$s"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wc-product-wdm-product-bundle.php:411
+#: ../includes/class-wc- product-wdm-product-bundle.php:413
+#, php-format
+msgctxt "Price range: from"
+msgid "%1$s%2$s"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wc-product-wdm-product-bundle.php:461
+#: ../includes/class-wc- product-wdm-product-bundle.php:470
+#: ../public/class-wdm-product-bundle-type- display.php:300
+msgid "Free!"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wc-product-wdm-product-bundle.php:545
+#: ../public/class-wdm- product-bundle-type-display.php:143
+#: ../public/class-wdm-product-bundle-type- display.php:147
+#: ../public/class-wdm-product-bundle-type-display.php:302
+msgid "Out of stock"
+msgstr "Ausverkauft"
+
+# @ custom-product-boxes
+#: ../includes/class-wc-product-wdm-product-bundle.php:550
+#: ../public/class-wdm- product-bundle-type-display.php:303
+msgid "Available on backorder"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../includes/class-wc-product-wdm-product-bundle.php:580
+msgid "Read more"
+msgstr "Weiterlesen"
+
+# @ custom-product-boxes
+#: ../includes/class-wc-product-wdm-product-bundle.php:584
+msgid "Read More"
+msgstr "Weiterlesen"
+
+# @ custom-product-boxes
+#. translators: for quantity use %2$s
+#: ../includes/class-wdm-wc-product-item.php:225
+#, php-format
+msgid "%1$s <span class=\"bundled_item_price_quantity\">/ pc.</span>"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:443
+msgid "Oops! We could not locate your form."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:460
+msgid "Sorry. You must be logged in to view this form."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:566
+msgid "There was a problem with your submission."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:566
+msgid "Errors have been highlighted below."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:597 ../languages/form_display.php:2403
+msgid "Previous"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:597 ../languages/form_display.php:2403
+msgid "Previous Page"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:791
+msgid "Submit"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:838
+msgid "This field is for validation purposes and should be left unchanged."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1146 ../languages/form_display.php:1388 ..
+#: /languages/form_display.php:1525 ../languages/form_display.php:1541
+msgid "This field is required."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1157
+msgid "This date has already been taken. Please select a new date."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1161
+msgid ""
+"This field requires a unique entry and the values you entered have been "
+"already been used."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1162
+#, php-format
+msgid "This field requires a unique entry and '%s' has already been used"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1172
+msgid "Please enter a valid value."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1172
+msgid "Invalid selection. Please select one of the available choices."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1181
+msgid "Your passwords do not match."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1189
+msgid ""
+"Your password does not meet the required strength. <br/>Hint: To make it "
+"stronger, use upper and lower case letters, numbers and symbols like ! \" ? "
+"$ % ^ & )."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1201
+msgid "This field is required. Please enter the first and last name."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1217
+msgid "This field is required. Please enter a complete address."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1230
+msgid "Please enter your credit card information."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1238
+msgid "Please enter your card's security code."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1242
+msgid "Invalid credit card number."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1246
+msgid "is not supported. Please enter one of the supported credit cards."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1254
+msgid "Please enter a valid email address."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1260
+msgid "Your emails do not match."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1274
+msgid "Please enter a valid amount."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1296
+msgid "Please enter a valid quantity. Quantity cannot contain decimals."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1299 ../languages/form_display.php:1529
+msgid "Please enter a valid quantity"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1349
+#, php-format
+msgid "Please enter a valid date in the format (%s)."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1349
+msgid "Please enter a valid date."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1379
+msgid "Please enter a valid time."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1394
+msgid "Please enter a valid Website URL (i.e. http://www.gravityforms.com)."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1407 ../languages/form_display.php:1442
+msgid "The CAPTCHA wasn't entered correctly. Go back and try it again."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1463
+msgid "The reCAPTCHA wasn't entered correctly. Go back and try it again."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1486
+#, php-format
+msgid "File exceeds size limit. Maximum file size: %dMB"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1489
+#, php-format
+msgid "There was an error while uploading the file. Error code: %d"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1507
+msgid "The uploaded file type is not allowed."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:1511
+#, php-format
+msgid "The uploaded file type is not allowed. Must be one of the following: %s"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2093
+msgid "No results matched"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2119 ../languages/form_display.php:2670
+msgid "of"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2119
+msgid "max characters"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2162
+msgid "Strength indicator"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2162
+msgid "Mismatch"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2162
+msgid "Bad"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2162
+msgid "Short"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2162
+msgid "Good"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2162
+msgid "Strong"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2400
+msgid "Next"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2400
+msgid "Next Page"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2506
+msgid "click to duplicate this field"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2509
+msgid "click to delete this field"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2512
+msgid "Field ID"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2512
+msgid "click to expand and edit the options for this field"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2534
+msgid "Page Break"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2535
+msgid "end of page"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2535
+msgid "PAGE BREAK"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2535
+msgid "top of new page"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2584
+msgid ""
+"This page is unsecured. Do not enter a real credit card number. Use this "
+"field only for testing purposes. "
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2670
+msgid "Step"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2697
+msgid "Sorry. This form is no longer accepting new submissions."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2713
+msgid "This form is not yet available."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../languages/form_display.php:2715
+msgid "Sorry. This form is no longer available."
+msgstr ""
+
+# @ custom-product-boxes
+#: ../public/class-wdm-product-bundle-type-display.php:141
+msgid " in stock"
+msgstr "auf Lager"
+
+# @ custom-product-boxes
+#: ../public/class-wdm-product-bundle-type-display.php:145
+#: ../public/class-wdm- product-bundle-type-display.php:149
+msgid "In stock"
+msgstr "Auf Lager"
+
+# @ custom-product-boxes
+#: ../public/class-wdm-product-bundle-type-display.php:216
+msgid "Add to cart"
+msgstr "In den Warenkorb legen"
+
+# @ custom-product-boxes
+#: ../public/class-wdm-product-bundle-type-display.php:266
+msgid "Kindly fill the box before adding it to the cart."
+msgstr "Bitte das Feld zu füllen , bevor es in den Warenkorb legen."
+
+# @ custom-product-boxes
+#: ../public/class-wdm-product-bundle-type-display.php:301
+msgid "Total"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../public/class-wdm-product-bundle-type-display.php:339
+msgid "Price not set"
+msgstr "Preis nicht gesetzt"

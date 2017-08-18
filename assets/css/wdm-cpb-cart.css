@@ -1,0 +1,13 @@
+p.msg_title {
+    margin-top: 0px;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+p.msg_cart {
+    color: #a0a0a0;
+    font-style: italic;
+    font-weight: bold;
+	word-wrap: break-word;
+	width: 50%;
+}

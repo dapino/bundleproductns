@@ -1,0 +1,66 @@
+.wc-wdm_bundle_products label {
+    margin-right: 2% !important;
+}
+
+.prefill_div{
+    display: none;
+}
+
+.prefill_table {
+    display: none;
+    /*margin: 0 1.5% 1.5% 1.5%;*/
+}
+
+.prefill_table td:first-child{
+    text-align: center;
+}
+
+.prefill_qty input{
+    width: 100% !important;
+}
+
+.invalid_qty {
+    background-color:#fee !important;
+    border:1px solid red !important;
+}
+
+.prefill_table td {
+    padding: 0 10px 5px 10px;
+}
+
+.prefill_table td:first-child{
+    text-align: center;
+    width: 3% !important;
+}
+
+.prefill_table td:nth-child(2) {
+    width: 25% !important;
+}
+
+.prefill_table td:nth-child(3) {
+    width: 2% !important;
+}
+
+.prefill_table td:nth-child(4) {
+    width: 10% !important;
+}
+
+.prefill_table th:nth-child(3) {
+    width: 5% !important;
+}
+
+.prefill_products_holder {
+    width: 100%;
+}
+
+.wdm_cpb_rem {
+    margin-right: 10%;
+}
+
+._wdm_gift_message_label_field{
+    display: none;
+}
+
+.add-on-class {
+    padding-left: 0 !important;
+}

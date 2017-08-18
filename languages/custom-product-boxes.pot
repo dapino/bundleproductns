@@ -1,0 +1,562 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Product Boxes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-04 19:22+0530\n"
+"POT-Revision-Date: Mon Mar 30 2015 12:24:39 GMT+0530 (IST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-wdm-admin-asset.php:76
+msgid "Please enter value in \"Box Quantity\" field."
+msgstr ""
+
+#: ../admin/class-wdm-admin-asset.php:77
+msgid "Please enter value in \"Add-On Products\" field."
+msgstr ""
+
+#: ../admin/class-wdm-admin-asset.php:78
+msgid "Please enter value in \"Regular Price\" field."
+msgstr ""
+
+#: ../admin/class-wdm-admin-asset.php:79
+msgid "Please enter value in \"Sale Price\" field less than regular price."
+msgstr ""
+
+#: ../admin/class-wdm-admin-asset.php:92
+msgid ""
+"Total quantity of products selected for pre filled boxes should be lesser than "
+"or equal to CPB box quantity"
+msgstr ""
+
+#: ../admin/class-wdm-admin-asset.php:93
+msgid ""
+"Quantity of product(s) sold individually cannot be more than 1. Please change "
+"the quantity of the following product(s): "
+msgstr ""
+
+#: ../admin/class-wdm-cbp-layout-setting.php:87
+#, php-format
+msgid "%s | Source Type: %s | Source: %s"
+msgstr ""
+
+#: ../admin/class-wdm-cbp-layout-setting.php:155
+#, php-format
+msgid "%s Theme"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:73
+msgid "Custom Product Box"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:110
+msgid "Regular Price"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:113
+msgid "Enter Regular Price."
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:123
+msgid "Sale Price"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:126
+msgid "Enter Sale Price."
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:138
+msgid "Custom Box Settings"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:196
+msgid "Product Box Settings"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:200
+msgid ""
+"Select the products which can be added to the Custom Product Box. Kindly select "
+"more than one product."
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:201
+msgid "Add-On Products"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:215
+msgid "Pricing Type"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:217
+msgid "Select the pricing type."
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:219
+msgid "Fixed Pricing"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:220
+msgid "Per Product Pricing with Base Price"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:221
+msgid "Per Product Pricing without Base Price"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:229
+msgid "Box Quantity"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:232
+msgid "Set the number of items which can be added to the box."
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:245
+msgid "Select box layout"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:247
+msgid "Select the box layout ."
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:256
+msgid "Columns in Gift Box"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:258
+#: ../admin/class-wdm-product-bundle-type.php:270
+msgid ""
+"Select the number of columns for the gift layout (This will affect the display "
+"of the layout on your custom box page)."
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:260
+#: ../admin/class-wdm-product-bundle-type.php:289
+msgid "2"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:261
+#: ../admin/class-wdm-product-bundle-type.php:290
+msgid "3"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:268
+msgid "Items per row in Gift Box"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:272
+#: ../admin/class-wdm-product-bundle-type.php:301
+msgid "4"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:273
+#: ../admin/class-wdm-product-bundle-type.php:302
+msgid "5"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:274
+#: ../admin/class-wdm-product-bundle-type.php:303
+msgid "6"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:275
+#: ../admin/class-wdm-product-bundle-type.php:304
+msgid "7"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:276
+#: ../admin/class-wdm-product-bundle-type.php:305
+msgid "8"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:285
+msgid "Columns in Product Layout"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:287
+#: ../admin/class-wdm-product-bundle-type.php:299
+msgid ""
+"Select the number of columns for the products layout (This will affect the "
+"display of the layout on your custom box page)."
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:297
+msgid "Items per row in Product Layout"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:314
+msgid "Allow Partially-Filled Box"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:315
+msgid "Allow the purchase of box which has not been filled to its full capacity"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:322
+msgid "Sort Products by Date"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:323
+msgid "Adds newly added product to the top"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:330
+msgid "Allow Scroll Lock"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:331
+msgid "Enables the scroll of gift box"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:338
+msgid "Enable Gift Message"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:340
+msgid "Allows Customers to send a message along with the Gift Box"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:347
+msgid "Gift Message Label"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:350
+msgid "Set a label for 'Gift Message' field"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:368
+msgid "Pre-Filled Box"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:369
+msgid "Allow pre-filled box"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:376
+msgid "Mandatory"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:377
+msgid ""
+"Check to make the selected pre-filled products mandatory in the custom box. "
+"(Products which are marked mandatory cannot be removed from the box)"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:381
+msgid "Product Name"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:381
+msgid "Quantity"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:394
+msgid "Remove Mandatory Products"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:395
+msgid "Allows user to remove mandatory products only if they run out of stock"
+msgstr ""
+
+#: ../admin/class-wdm-product-bundle-type.php:452
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: ../custom-product-boxes.php:270
+#, php-format
+msgid "%s %s is inactive.%s Install and activate %sWooCommerce%s for %s to work."
+msgstr ""
+
+#: ../includes/class-wc-product-wdm-product-bundle.php:283
+#: ../public/class-wdm-abstract-product-display.php:291
+#: ../public/class-wdm-frontend-scripts.php:119
+msgid "Out of stock"
+msgstr ""
+
+#: ../includes/class-wc-product-wdm-product-bundle.php:286
+#: ../public/class-wdm-abstract-product-display.php:309
+#: ../public/class-wdm-frontend-scripts.php:120
+msgid "Available on backorder"
+msgstr ""
+
+#: ../includes/class-wc-product-wdm-product-bundle.php:315
+msgid "Read more"
+msgstr ""
+
+#: ../includes/class-wc-product-wdm-product-bundle.php:317
+msgid "Read More"
+msgstr ""
+
+#: ../includes/class-wc-product-wdm-product-bundle.php:540
+msgid "now"
+msgstr ""
+
+#: ../includes/class-wc-product-wdm-product-bundle.php:615
+#: ../includes/class-wc-product-wdm-product-bundle.php:618
+#: ../public/class-wdm-frontend-scripts.php:117
+msgid "Free!"
+msgstr ""
+
+#: ../includes/class-wdm-add-license-data.php:57
+#: ../includes/class-wdm-add-license-data.php:58
+#, php-format
+msgid "%s License"
+msgstr ""
+
+#: ../includes/class-wdm-wc-product-cart.php:212
+#, php-format
+msgid "Sorry, the selected variation of &quot;%s&quot; cannot be purchased."
+msgstr ""
+
+#: ../includes/class-wdm-wc-product-cart.php:246
+#: ../includes/class-wdm-wc-product-cart.php:301
+msgid "Please choose product options&hellip;"
+msgstr ""
+
+#: ../includes/class-wdm-wc-product-cart.php:618
+#: ../includes/class-wdm-wc-product-cart.php:632
+#: ../includes/class-wdm-wc-product-cart.php:645
+msgid "View Cart"
+msgstr ""
+
+#: ../includes/class-wdm-wc-product-cart.php:619
+#: ../includes/class-wdm-wc-product-cart.php:633
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart because there is not enough stock of "
+"&quot;%s&quot; &mdash; we have %s in stock and you already have %s in your cart."
+msgstr ""
+
+#: ../includes/class-wdm-wc-product-cart.php:646
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart &mdash; only 1 &quot;%s&quot; can be "
+"purchased and you already have it in your cart."
+msgstr ""
+
+#: ../includes/class-wdm-wc-product-cart.php:683
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart &mdash; only 1 &quot;%s&quot; can be "
+"purchased."
+msgstr ""
+
+#: ../includes/class-wdm-wc-product-cart.php:685
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart because &quot;%s&quot; cannot be "
+"purchased."
+msgstr ""
+
+#: ../includes/class-wdm-wc-product-cart.php:687
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart because &quot;%s&quot; is out of "
+"stock."
+msgstr ""
+
+#: ../includes/class-wdm-wc-product-cart.php:689
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart because there is not enough stock of "
+"&quot;%s&quot; (%s remaining)."
+msgstr ""
+
+#: ../includes/class-wdm-wc-product-cart.php:818
+msgid "Included with"
+msgstr ""
+
+#: ../includes/class-wdm-wc-product-cart.php:892
+#: ../includes/class-wdm-wc-product-cart.php:898
+#: ../includes/class-wdm-wc-product-cart.php:906
+msgid ""
+"Quantity exceeds the maximum quantity of certain products in the box. Kindly "
+"reduce the number of boxes selected."
+msgstr ""
+
+#: ../includes/class-wdm-wc-product-item.php:289
+#, php-format
+msgid "%1$s <span class=\"bundled_item_price_quantity\">/ pc.</span>"
+msgstr ""
+
+#: ../public/class-wdm-abstract-product-display.php:252
+#, php-format
+msgid ""
+"This Custom Box cannot be purchased as mandatory product #%d - %s has run out "
+"of stock."
+msgstr ""
+
+#: ../public/class-wdm-abstract-product-display.php:298
+msgid "Only 1 allowed per order"
+msgstr ""
+
+#: ../public/class-wdm-abstract-product-display.php:301
+msgid " (Available on backorder)"
+msgstr ""
+
+#: ../public/class-wdm-abstract-product-display.php:309
+#: ../public/class-wdm-abstract-product-display.php:316
+#: ../public/class-wdm-abstract-product-display.php:331
+#: ../public/class-wdm-abstract-product-display.php:342
+msgid "In stock"
+msgstr ""
+
+#: ../public/class-wdm-abstract-product-display.php:344
+#, php-format
+msgid "Only %s left in stock"
+msgstr ""
+
+#: ../public/class-wdm-abstract-product-display.php:348
+#: ../public/class-wdm-abstract-product-display.php:364
+msgid " (also available on backorder)"
+msgstr ""
+
+#: ../public/class-wdm-abstract-product-display.php:360
+#, php-format
+msgid "%s in stock"
+msgstr ""
+
+#: ../public/class-wdm-frontend-scripts.php:118
+msgid "Total"
+msgstr ""
+
+#: ../public/class-wdm-frontend-scripts.php:144
+msgid ""
+"Quantity exceeds the maximum quantity of certain products in the box. Kindly "
+"reduce the number of Boxes selected."
+msgstr ""
+
+#: ../public/class-wdm-frontend-scripts.php:145
+msgid "Kindly fill the box before adding it to the cart."
+msgstr ""
+
+#: ../public/class-wdm-gift-message.php:34
+msgid "Gift Message"
+msgstr ""
+
+#: ../public/class-wdm-mobile-list-layout.php:35
+msgid "Products Added."
+msgstr ""
+
+#: ../public/class-wdm-mobile-list-layout.php:36
+msgid "Total Product Price"
+msgstr ""
+
+#: ../public/class-wdm-product-bundle-type-display.php:79
+msgid "Price not set"
+msgstr ""
+
+#: ../templates/license-page.php:36
+msgid "Your license key is activated."
+msgstr ""
+
+#: ../templates/license-page.php:40
+msgid "No response from server. Please try again later."
+msgstr ""
+
+#: ../templates/license-page.php:41
+msgid ""
+"License Activation Failed. Please try again or contact support on "
+"support@wisdmlabs.com"
+msgstr ""
+
+#: ../templates/license-page.php:42
+msgid "Please enter license key."
+msgstr ""
+
+#: ../templates/license-page.php:43 ../templates/license-page.php:48
+#, php-format
+msgid ""
+"Your License Key is already activated at : %s Please deactivate the license "
+"from one of the above site(s) to successfully activate it on your current site."
+msgstr ""
+
+#: ../templates/license-page.php:43
+msgid "No Activations Left."
+msgstr ""
+
+#: ../templates/license-page.php:44
+msgid "Your license key has Expired. Please, Renew it."
+msgstr ""
+
+#: ../templates/license-page.php:45
+msgid "Your License key is disabled"
+msgstr ""
+
+#: ../templates/license-page.php:46
+msgid "Please enter valid license key"
+msgstr ""
+
+#: ../templates/license-page.php:47
+msgid ""
+"Please try to activate license again. If it does not activate, contact support "
+"on support@wisdmlabs.com"
+msgstr ""
+
+#: ../templates/license-page.php:48
+msgid "Site inactive (Press Activate license to activate plugin)"
+msgstr ""
+
+#: ../templates/license-page.php:49
+msgid "License Key is deactivated"
+msgstr ""
+
+#: ../templates/license-page.php:50
+#, php-format
+msgid ""
+"Following Error Occurred: %s. Please contact support on support@wisdmlabs.com "
+"if you are not sure why this error is occurring"
+msgstr ""
+
+#: ../templates/license-page.php:87
+#, php-format
+msgid "%s License Options"
+msgstr ""
+
+#: ../templates/license-page.php:95
+msgid "License Key"
+msgstr ""
+
+#: ../templates/license-page.php:115
+msgid "License Status"
+msgstr ""
+
+#: ../templates/license-page.php:121
+msgid "Active"
+msgstr ""
+
+#: ../templates/license-page.php:124 ../templates/license-page.php:130
+msgid "Not Active"
+msgstr ""
+
+#: ../templates/license-page.php:139 ../templates/license-page.php:153
+msgid "Activate License"
+msgstr ""
+
+#: ../templates/license-page.php:145
+msgid "Deactivate License"
+msgstr ""
+
+#: ../templates/license-page.php:148
+msgid "Renew License"
+msgstr ""
+
+#: ../templates/product-layouts/mobile-layouts/list/single-product/add-to-cart/wdm-add-to-cart-button.php:58
+#: ../templates/single-product/add-to-cart/wdm-add-to-cart-button.php:61
+msgid "Add to cart"
+msgstr ""

@@ -1,0 +1,528 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Product Boxes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-23 13:10+0530\n"
+"PO-Revision-Date: 2016-09-23 13:10+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Revision-Date: Mon Mar 30 2015 12:24:39 GMT+0530 (IST)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;_e:1;_c:1;"
+"_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:118
+msgid "Please enter value in \"Box Quantity\" field."
+msgstr "\" बॉक्स मात्रा \" क्षेत्र में बॉक्स की मात्रा दर्ज करें।"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:119
+msgid "Please enter value in \"Add-On Products\" field."
+msgstr "\" उत्पादों पर जोड़ें \" क्षेत्र में उत्पाद दर्ज करें।"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:120
+msgid "Please enter value in \"Regular Price\" field."
+msgstr "\" नियमित मूल्य \" क्षेत्र में मूल्य दर्ज करें।"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:121
+msgid "Please enter value in \"Sale Price\" field less than regular price."
+msgstr "कृपया \"बिक्री मूल्य\" क्षेत्र में नियमित मूल्य से कम मूल्य दर्ज करें।"
+
+#: ../admin/class-wdm-product-bundle-type.php:134
+msgid ""
+"Total quantity of products selected for pre filled boxes should be lesser than or equal to "
+"CPB box quantity"
+msgstr "पूर्व भरे बक्से के लिए चयनित उत्पादों की कुल मात्रा से कम या सीपीबी बॉक्स मात्रा के बराबर होना चाहिए"
+
+#: ../admin/class-wdm-product-bundle-type.php:135
+msgid ""
+"Quantity of product(s) sold individually cannot be more than 1. Please change the quantity "
+"of the following product(s): "
+msgstr "प्रती आर्डर केवल एक उत्पाद की मात्रा 1 से अधिक नहीं हो सकती। कृपया निम्न उत्पाद की मात्रा को बदल"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:143
+msgid "Custom Product Box"
+msgstr "कस्टम उत्पाद बॉक्स"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:176
+msgid "Regular Price"
+msgstr "नियमित रूप से मूल्य"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:179
+msgid "Enter Regular Price."
+msgstr "नियमित मूल्य दर्ज करें।"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:189
+msgid "Sale Price"
+msgstr "विक्रय कीमत"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:192
+msgid "Enter Sale Price."
+msgstr "बिक्री मूल्य दर्ज करें।"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:204
+msgid "Custom Box Settings"
+msgstr "कस्टम बॉक्स सेटिंग"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:260
+msgid "Product Box Settings"
+msgstr "उत्पाद बॉक्स सेटिंग"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:264
+msgid ""
+"Select the products which can be added to the Custom Product Box. Kindly select more than "
+"one product."
+msgstr ""
+"उत्पाद जो कस्टम उत्पाद बॉक्स में जोड़ा जा सकता है, उसका चयन करें। कृपया एक से अधिक उत्पाद का चयन करें।"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:265
+msgid "Add-On Products"
+msgstr "उत्पादों पर जोड़ें"
+
+#: ../admin/class-wdm-product-bundle-type.php:279
+msgid "Pricing Type"
+msgstr "मूल्य निर्धारण के प्रकार"
+
+#: ../admin/class-wdm-product-bundle-type.php:281
+msgid "Select the pricing type."
+msgstr "मूल्य निर्धारण के प्रकार का चयन करें।"
+
+#: ../admin/class-wdm-product-bundle-type.php:283
+msgid "Fixed Pricing"
+msgstr "निश्चित मूल्य निर्धारण"
+
+#: ../admin/class-wdm-product-bundle-type.php:284
+msgid "Per Product Pricing with Base Price"
+msgstr "प्रति आधार मूल्य के साथ उत्पाद मूल्य निर्धारण"
+
+#: ../admin/class-wdm-product-bundle-type.php:285
+msgid "Per Product Pricing without Base Price"
+msgstr "प्रति आधार मूल्य बिना उत्पाद मूल्य निर्धारण"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:293
+msgid "Box Quantity"
+msgstr "बॉक्स मात्रा"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:296
+msgid "Set the number of items which can be added to the box."
+msgstr "आइटम जो बॉक्स में जोड़ा जा सकता है, उसकी संख्या निर्धारित करें।"
+
+#: ../admin/class-wdm-product-bundle-type.php:309
+msgid "Columns in Gift Box"
+msgstr "उपहार बॉक्स में स्तंभों की सांख्य"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:311
+msgid ""
+"Select the number of columns for the grid template. This will affect the display of the grid "
+"on the product page."
+msgstr ""
+"ग्रिड टेम्पलेट के लिए स्तंभों की संख्या का चयन करें। यह उत्पाद पृष्ठ पर ग्रिड के प्रदर्शन को प्रभावित करेगा।"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:313
+#: ../admin/class-wdm-product-bundle-type.php:326
+msgid "2"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:314
+#: ../admin/class-wdm-product-bundle-type.php:327
+msgid "3"
+msgstr ""
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:322
+msgid "Columns in Product Layout"
+msgstr "उत्पाद सांचे में स्तंभों की सांख्य"
+
+# @ custom-product-boxes
+#: ../admin/class-wdm-product-bundle-type.php:324
+msgid "Select the number of columns for the product selection layout."
+msgstr "उत्पाद चयन सांचे के लिए स्तंभों की संख्या का चयन करें।"
+
+#: ../admin/class-wdm-product-bundle-type.php:336
+msgid "Allow Partially-Filled Box"
+msgstr "उपहार बॉक्स अधूरा भरने दे"
+
+#: ../admin/class-wdm-product-bundle-type.php:337
+msgid "Allow the purchase of box which has not been filled to its full capacity"
+msgstr "बॉक्स की मात्रा से कम भरा हुआ उपहार बॉक्स खरीदने दे"
+
+#: ../admin/class-wdm-product-bundle-type.php:344
+msgid "Sort Products by Date"
+msgstr "उत्पादो को दिनांक अनुसार क्रमबद्ध करें"
+
+#: ../admin/class-wdm-product-bundle-type.php:345
+msgid "Adds newly added product to the top"
+msgstr "नया उत्पाद उपर दिखाए"
+
+#: ../admin/class-wdm-product-bundle-type.php:352
+msgid "Allow Scroll Lock"
+msgstr "स्क्रॉल लॉक करने दे"
+
+#: ../admin/class-wdm-product-bundle-type.php:353
+msgid "Enables the scroll of gift box"
+msgstr "स्क्रॉल लॉक करने देता है"
+
+#: ../admin/class-wdm-product-bundle-type.php:374
+msgid "Pre-Filled Box"
+msgstr "पूर्व भरे बॉक्स"
+
+#: ../admin/class-wdm-product-bundle-type.php:375
+msgid "Allow pre-filled box"
+msgstr "पूर्व भरे बॉक्स की अनुमति देता है"
+
+#: ../admin/class-wdm-product-bundle-type.php:381
+msgid "Mandatory"
+msgstr "अनिवार्य"
+
+#: ../admin/class-wdm-product-bundle-type.php:382
+msgid ""
+"Check to make the selected pre-filled products mandatory in the custom box. (Products which "
+"are marked mandatory cannot be removed from the box)"
+msgstr ""
+"चुने गए पहले से भरे उत्पादों कस्टम बॉक्स में अनिवार्य बनाने के लिए। ( उत्पाद, जो अनिवार्य चिह्नित कर रहे हैं "
+"बॉक्स से नहीं हटाया जा सकता है)"
+
+#: ../admin/class-wdm-product-bundle-type.php:386
+msgid "Product Name"
+msgstr "उत्पाद का नाम"
+
+#: ../admin/class-wdm-product-bundle-type.php:386
+msgid "Quantity"
+msgstr "मात्रा"
+
+#: ../admin/class-wdm-product-bundle-type.php:399
+msgid "Remove Mandatory Products"
+msgstr "अनिवार्य उत्पादों को निकाले"
+
+#: ../admin/class-wdm-product-bundle-type.php:400
+msgid "Allows user to remove mandatory products only if they run out of stock"
+msgstr "अनिवार्य उत्पाद के स्टॉक से बाहर जाने के बाद, ख़रीदार को अनिवार्य उत्पाद निकालने की अनुमति देता है"
+
+#: ../custom-product-boxes.php:223
+#, php-format
+msgid "%s %s is inactive.%s Install and activate %sWooCommerce%s for %s to work."
+msgstr "%s %s निष्क्रिय है। %s %sWooCommerce%s को स्थापित और सक्रिय करे। %s तभी चलेगा।"
+
+# @ custom-product-boxes
+#: ../includes/class-wc-product-wdm-product-bundle.php:279
+#: ../public/class-wdm-product-bundle-type-display.php:208
+#: ../public/class-wdm-product-bundle-type-display.php:602
+msgid "Out of stock"
+msgstr "अनुपलब्ध"
+
+# @ custom-product-boxes
+#: ../includes/class-wc-product-wdm-product-bundle.php:282
+#: ../public/class-wdm-product-bundle-type-display.php:212
+#: ../public/class-wdm-product-bundle-type-display.php:603
+msgid "Available on backorder"
+msgstr "बैकऑर्डर पर उपलब्ध है"
+
+# @ custom-product-boxes
+#: ../includes/class-wc-product-wdm-product-bundle.php:311
+msgid "Read more"
+msgstr "अधिक पढ़ें"
+
+# @ custom-product-boxes
+#: ../includes/class-wc-product-wdm-product-bundle.php:313
+msgid "Read More"
+msgstr "अधिक पढ़ें"
+
+# @ custom-product-boxes
+#: ../includes/class-wc-product-wdm-product-bundle.php:540
+msgid "now"
+msgstr "अभी"
+
+# @ custom-product-boxes
+#: ../includes/class-wc-product-wdm-product-bundle.php:615
+#: ../includes/class-wc-product-wdm-product-bundle.php:618
+#: ../public/class-wdm-product-bundle-type-display.php:600
+msgid "Free!"
+msgstr "मुक्त!"
+
+#: ../includes/class-wdm-add-plugin-data-in-db.php:64
+msgid "Custom Product Boxes License"
+msgstr "कस्टम उत्पाद बॉक्स लाइसेंस"
+
+#: ../includes/class-wdm-wc-product-cart.php:110 ../includes/class-wdm-wc-product-cart.php:125
+msgid "Bundled In"
+msgstr "में शामिल"
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:199
+#, php-format
+msgid "Sorry, the selected variation of &quot;%s&quot; cannot be purchased."
+msgstr "क्षमा करें, &quot;%s&quot; के चयनित भिन्नता नहीं खरीदा जा सकता है।"
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:233 ../includes/class-wdm-wc-product-cart.php:288
+msgid "Please choose product options&hellip;"
+msgstr "उत्पाद विकल्पों का चयन करें &hellip;"
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:608 ../includes/class-wdm-wc-product-cart.php:622
+#: ../includes/class-wdm-wc-product-cart.php:635
+msgid "View Cart"
+msgstr "गाडी देंखे"
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:609 ../includes/class-wdm-wc-product-cart.php:623
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart because there is not enough stock of &quot;"
+"%s&quot; &mdash; we have %s in stock and you already have %s in your cart."
+msgstr ""
+"&quot;%s&quot; गाड़ी में जोड़ा नहीं जा सकता क्योंकि &quot;%s&quot; का पर्याप्त स्टॉक नहीं है &mdash; "
+"स्टॉक में % s है और आप पहले से ही अपनी गाड़ी में %s डाल चुकें है।"
+
+#: ../includes/class-wdm-wc-product-cart.php:636
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart &mdash; only 1 &quot;%s&quot; can be purchased "
+"and you already have it in your cart."
+msgstr ""
+"&quot;%s&quot; गाड़ी में नहीं जोड़ा जा सकता है &mdash; केवल 1 &quot;%s&quot; खरीदा जा सकता है और आप "
+"पहले से ही अपनी गाड़ी में ल चुकें है।"
+
+#: ../includes/class-wdm-wc-product-cart.php:673
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart &mdash; only 1 &quot;%s&quot; can be purchased."
+msgstr "&quot;%s&quot; गाड़ी में नहीं जोड़ा जा सकता है &mdash; केवल 1 &quot;%s&quot; खरीदा जा सकता है।"
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:675
+#, php-format
+msgid "&quot;%s&quot; cannot be added to the cart because &quot;%s&quot; cannot be purchased."
+msgstr "&quot;%s&quot; गाड़ी में जोड़ा नहीं जा सकता क्योंकि & ​​quot; % s & quot; नहीं खरीदा जा सकता है।"
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:677
+#, php-format
+msgid "&quot;%s&quot; cannot be added to the cart because &quot;%s&quot; is out of stock."
+msgstr "&quot;%s&quot; गाड़ी में जोड़ा नहीं जा सकता क्योंकि &quot;%s&quot; स्टॉक से बाहर है ।"
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:679
+#, php-format
+msgid ""
+"&quot;%s&quot; cannot be added to the cart because there is not enough stock of &quot;"
+"%s&quot; (%s remaining)."
+msgstr ""
+"&quot;%s&quot; गाड़ी में जोड़ा नहीं जा सकता क्योंकि &quot;%s&quot; का पर्याप्त स्टॉक नहीं है (%s शेष )।"
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-cart.php:807
+msgid "Included with"
+msgstr "साथ शामिल"
+
+#: ../includes/class-wdm-wc-product-cart.php:872 ../includes/class-wdm-wc-product-cart.php:878
+#: ../includes/class-wdm-wc-product-cart.php:886
+msgid ""
+"Quantity exceeds the maximum quantity of certain products in the box. Kindly reduce the "
+"number of boxes selected."
+msgstr "बॉक्स में कुछ उत्पादों की मात्रा अधिकतम मात्रा से अधिक है। कृपया चयन किया बॉक्स की संख्या कम है ।"
+
+# @ custom-product-boxes
+#: ../includes/class-wdm-wc-product-item.php:257
+#, php-format
+msgid "%1$s <span class=\"bundled_item_price_quantity\">/ pc.</span>"
+msgstr ""
+
+#: ../public/class-wdm-product-bundle-type-display.php:65
+#, php-format
+msgid "This Custom Box cannot be purchased as mandatory product #%d - %s has run out of stock."
+msgstr "यह कस्टम बॉक्स नहीं खरीदा जा सकता है, क्योंकि अनिवार्य उत्पाद #%d  - %s स्टॉक से बाहर चला गया है।"
+
+# @ custom-product-boxes
+#: ../public/class-wdm-product-bundle-type-display.php:212
+#: ../public/class-wdm-product-bundle-type-display.php:218
+#: ../public/class-wdm-product-bundle-type-display.php:222
+#: ../public/class-wdm-product-bundle-type-display.php:243
+msgid "In stock"
+msgstr "उपलब्ध"
+
+#: ../public/class-wdm-product-bundle-type-display.php:229
+#: ../public/class-wdm-product-bundle-type-display.php:238
+#, php-format
+msgid "Only %s left in stock"
+msgstr "स्टॉक में केवल %s बचा है"
+
+#: ../public/class-wdm-product-bundle-type-display.php:234
+#: ../public/class-wdm-product-bundle-type-display.php:254
+msgid "(also available on backorder)"
+msgstr "(यह बैकऑर्डर पर भी उपलब्ध है)"
+
+#: ../public/class-wdm-product-bundle-type-display.php:249
+#: ../public/class-wdm-product-bundle-type-display.php:258
+#, php-format
+msgid "%s in stock"
+msgstr "%s उपलब्ध"
+
+# @ custom-product-boxes
+#: ../public/class-wdm-product-bundle-type-display.php:473
+msgid "Add to cart"
+msgstr "कार्ट में जोड़ें"
+
+# @ custom-product-boxes
+#: ../public/class-wdm-product-bundle-type-display.php:490
+msgid ""
+"Quantity exceeds the maximum quantity of certain products in the box. Kindly reduce the "
+"number of Boxes selected."
+msgstr "कुछ उत्पादों की मात्रा "
+
+# @ custom-product-boxes
+#: ../public/class-wdm-product-bundle-type-display.php:492
+msgid "Kindly fill the box before adding it to the cart."
+msgstr "कृपया गाड़ी में जोड़ने से पहले बॉक्स को पूरा भरें ।"
+
+# @ custom-product-boxes
+#: ../public/class-wdm-product-bundle-type-display.php:601
+msgid "Total"
+msgstr "कुल"
+
+# @ custom-product-boxes
+#: ../public/class-wdm-product-bundle-type-display.php:655
+msgid "Price not set"
+msgstr "मूल्य निर्धारित नहीं किया"
+
+#: ../templates/l_page_display.php:34
+msgid "No response from server. Please try again later."
+msgstr "सर्वर से कोई प्रतिक्रिया नहीं। बाद में पुन: प्रयास करें।"
+
+#: ../templates/l_page_display.php:41
+msgid "License Activation Failed. Please try again or contact support on support@wisdmlabs.com"
+msgstr "लाइसेंस सक्रियण विफल। फिर से कोशिश करें या मदद के लिए support@wisdmlabs.com पर संपर्क करें"
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:49
+msgid "Please enter license key."
+msgstr "लाइसेंस कुंजी दर्ज करें।"
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:56
+msgid "Your license key is activated."
+msgstr "आपकी लाइसेंस कुंजी सक्रिय है।"
+
+#: ../templates/l_page_display.php:63
+msgid ""
+"Your license key has Expired. Please, Renew it. <br/>Your License Key is already activated "
+"at : "
+msgstr ""
+"आपकी लाइसेंस कुंजी समाप्त हो गया है । कृपया, यह नवीनीकृत । <br/> आपका लाइसेंस कुंजी पहले से ही सक्रिय होता "
+"है :"
+
+#: ../templates/l_page_display.php:70
+msgid "Your license key has Expired. Please, Renew it."
+msgstr "आपकी लाइसेंस कुंजी समाप्त हो गया है । कृपया, यह नवीनीकृत ।"
+
+#: ../templates/l_page_display.php:77
+msgid "Your license key is Disabled."
+msgstr "आपकी लाइसेंस कुंजी अक्षम है।"
+
+#: ../templates/l_page_display.php:84 ../templates/l_page_display.php:98
+msgid "Your License Key is already activated at : "
+msgstr "आपका लाइसेंस कुंजी निम्न लिखित साइट पे पहले से ही सक्रिय है :"
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:91
+msgid "Please enter valid license key."
+msgstr "वैध लाइसेंस कुंजी दर्ज करें।"
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:105
+msgid "Site inactive(Press Activate license to activate plugin)"
+msgstr "साइट निष्क्रिय (प्लगइन को सक्रिय करने के लिए लाइसेंस सक्रिय करे)"
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:112
+msgid "License Key is deactivated"
+msgstr "लाइसेंस कुंजी निष्क्रिय है"
+
+#: ../templates/l_page_display.php:120
+msgid "Custom Product Boxes License Options"
+msgstr "कस्टम उत्पाद बॉक्स लाइसेंस विकल्प"
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:127
+msgid "License Key"
+msgstr "लाइसेंस कुंजी"
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:148
+msgid "License Status"
+msgstr "लाइसेंस स्थिति"
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:152 ../templates/l_page_display.php:164
+msgid "Active"
+msgstr "सक्रिय"
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:156 ../templates/l_page_display.php:160
+#: ../templates/l_page_display.php:167 ../templates/l_page_display.php:172
+msgid "Not Active"
+msgstr "अक्रिय"
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:182 ../templates/l_page_display.php:195
+#: ../templates/l_page_display.php:214
+msgid "Activate License"
+msgstr "लाइसेंस को सक्रिय करें।"
+
+# @ custom-product-boxes
+#: ../templates/l_page_display.php:188 ../templates/l_page_display.php:203
+msgid "Deactivate License"
+msgstr "लाइसेंस निष्क्रिय करें"
+
+#: ../templates/l_page_display.php:198 ../templates/l_page_display.php:206
+msgid "Renew License"
+msgstr "लाइसेंस नवीनीकृत करें।"
+
+#~ msgid "Sold individual product: "
+#~ msgstr " केवल एक प्रती आर्डर उत्पाद : "
+
+#~ msgid " quantity for sold individual product cannot be greater then 1"
+#~ msgstr "  केवल एक प्रती आर्डर उत्पाद की मात्रा 1 से अधिक नहीं हो सकती।"
+
+#~ msgid "Allows user to remove mandatory products if they run out of stock"
+#~ msgstr "अनिवार्य उत्पाद स्टॉक से बाहर जाने के बाद, ख़रीदार को अनिवार्य उत्पाद निकालने की अनुमति देता है"
+
+#~ msgid " License Options"
+#~ msgstr "लाइसेंस विकल्प"
+
+#~ msgid " is sold individual product, its quantity cannot be greater then 1"
+#~ msgstr " केवल एक प्रती आर्डर बेचा जाता है, इसकी मात्रा 1 से अधिक नहीं हो सकती।"
+
+#~ msgid "Mandatory Products"
+#~ msgstr "अनिवार्य उत्पाद"
+
+# @ custom-product-boxes
+#~ msgid " in stock"
+#~ msgstr "उपलब्ध"
