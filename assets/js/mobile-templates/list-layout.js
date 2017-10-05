@@ -254,7 +254,7 @@
             var image = jQuery('.wdm-cpb-product-layout-wrapper *[data-product-cat-id="'+v+'"]').data('product-cat-thumbnail');
             var name = jQuery('.wdm-cpb-product-layout-wrapper *[data-product-cat-id="'+v+'"]').data('product-cat-name');
             jQuery('.wdm-cpb-product-layout-wrapper *[data-product-cat-id="'+v+'"]').wrapAll('<div id="mobile-product-cat-'+v+'" class="product-cat-wrap"></div>');
-            jQuery('#mobile-product-cat-'+v).prepend('<div class="product-cat-image"><img src="'+image+'" alt="'+name+'" /></div><h3 class="product-cat-title">'+name+'</h3>')
+            jQuery('#mobile-product-cat-'+v).prepend('<div class="columnHeader"><div class="product-cat-image"><img src="'+image+'" alt="'+name+'" /></div><h3 class="product-cat-title">'+name+'</h3></div>')
 
             jQuery(`#mobile-product-cat-${v} .mobile_list_layout`).wrapAll('<div class="mobile_list_wrapper"></div>');
         });

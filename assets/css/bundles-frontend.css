@@ -211,7 +211,7 @@
 }
 
 .mobile-list-layout-add-on-product-quantity {
-    width: 30%;
+    width: 35%;
     float: right;
     text-align: right;
 }
@@ -290,7 +290,7 @@
     .mobile-list-layout-add-on-product-quantity{
         float: left;
         text-align: left;
-        width: 30%;
+        width: 35%;
     }
     .mobile-list-layout-add-on-product-quantity .cart{
         float: left;
@@ -330,6 +330,10 @@
 .mobile_list_wrapper{
     height: 200px;
     overflow-y: auto;
+}
+
+.mobile_list_wrapper .product-cat-wrap{
+    width: 100% !important;
 }
 
 .product-cat-image{
@@ -410,9 +414,68 @@
     color: #2b9543;
     margin: 15px auto;
 }
+.columnHeader:nth-child(2){
+    display: none !important;
+}
 
 @media (max-width: 768px){
     #bundled_product_table{
-        display: none;
+        
     }
+    #bundled_product_table thead tr{
+        display: flex;
+    }
+    #bundled_product_table thead th{
+        text-align: center !important;
+        font-size: 12px !important;
+    }
+    #bundled_product_table thead th:nth-child(1){
+        width: 35% !important;
+    }
+    #bundled_product_table thead th:nth-child(2){
+        width: 25% !important;
+    }
+    #bundled_product_table thead th:nth-child(3){
+        width: 40% !important;
+    }
+    #bundled_product_table thead{
+        display: block !important;
+    }
+    #bundled_product_table tbody tr {
+        display: flex !important;
+        justify-content: space-between !important; 
+        padding: 0 !important;
+
+    }
+    #bundled_product_table tbody tr td{
+        display: inline-block !important;
+        border-top: none !important;
+    }
+    #bundled_product_table tbody tr td:nth-child(1){
+        width: 35% !important;
+        text-align: left !important;
+    }
+    #bundled_product_table tbody tr td:nth-child(2){
+        width: 15% !important;
+    }
+    #bundled_product_table tbody tr td:nth-child(3){
+        width: 50% !important;
+    }
+    #bundled_product_table tbody tr td:before{
+        display: none !important;
+    }
+    #bundled_product_table th{
+        display: inline-block !important;
+    }
+    .mobile_list_layout{
+        padding: 5px !important;
+    }
+    .mobile-list-layout-add-on-product-quantity .quantity{
+        display: flex;
+    }
+    .product-template-default .container{
+        width: 95% !important;
+    }
+
+
 }
